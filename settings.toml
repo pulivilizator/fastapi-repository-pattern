@@ -1,0 +1,2 @@
+[database]
+dsn = 'postgresql+asyncpg://myuser:mypassword@localhost/mydb'
